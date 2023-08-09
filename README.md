@@ -2,7 +2,8 @@
 
 😊Personal account. Basically all projects here are my non-professional creations.
 
-- **Language**: 🇬🇧English (Preferred), 🇨🇳Chinese
+- 🌐**Language**: 🇬🇧English (Preferred), 🇨🇳Chinese
+- 🛠️**Skills**: PyTorch, Python, C++, GNU/Linux
 
 <!---
 lcx64579/lcx64579 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
